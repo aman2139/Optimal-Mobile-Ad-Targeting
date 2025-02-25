@@ -26,7 +26,7 @@ data/: Directory containing the datasets used in the analysis.
 
 #### How to Run
 
-1.Clone the repository.
+1. Clone the repository.
 2. Ensure you have Jupyter Notebook installed to open the .ipynb file.
 3. Install necessary Python packages: pyrsm, pandas, numpy, scikit-learn, matplotlib.
 4. Run the notebook tz-gaming.ipynb to view the analysis and model comparisons.
